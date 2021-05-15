@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/cartesian/static/js/main.26a8de0f.chunk.js",
+    "main.js.map": "/cartesian/static/js/main.26a8de0f.chunk.js.map",
+    "runtime-main.js": "/cartesian/static/js/runtime-main.f4ab1435.js",
+    "runtime-main.js.map": "/cartesian/static/js/runtime-main.f4ab1435.js.map",
+    "static/js/2.86b7db3d.chunk.js": "/cartesian/static/js/2.86b7db3d.chunk.js",
+    "static/js/2.86b7db3d.chunk.js.map": "/cartesian/static/js/2.86b7db3d.chunk.js.map",
+    "static/js/3.d673d5d8.chunk.js": "/cartesian/static/js/3.d673d5d8.chunk.js",
+    "static/js/3.d673d5d8.chunk.js.map": "/cartesian/static/js/3.d673d5d8.chunk.js.map",
+    "index.html": "/cartesian/index.html",
+    "static/js/2.86b7db3d.chunk.js.LICENSE.txt": "/cartesian/static/js/2.86b7db3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4ab1435.js",
+    "static/js/2.86b7db3d.chunk.js",
+    "static/js/main.26a8de0f.chunk.js"
+  ]
+}

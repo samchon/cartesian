@@ -1,0 +1,1 @@
+export type IRecord = Record<string, string>;
